@@ -5,7 +5,7 @@
   "author": "Your Name",
   "description": "A simple hello world plugin",
   "icon": "https://example.com/icon.png",
-  "entryPoint": "HelloWorld.tsx",
+  "entryPoint": "HelloWorld.ts",
   "permissions": [],
   "category": "utility"
 }
