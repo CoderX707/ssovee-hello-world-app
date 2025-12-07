@@ -1,0 +1,11 @@
+{
+  "name": "Hello World Plugin",
+  "slug": "hello-world-1",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "A simple hello world plugin",
+  "icon": "https://example.com/icon.png",
+  "entryPoint": "HelloWorld.tsx",
+  "permissions": [],
+  "category": "utility"
+}
